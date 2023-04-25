@@ -3,3 +3,5 @@ Static variables: They are shared by all the objects of the class and can be acc
 Static blocks: They are used to initialize the static variables and are executed when the class is loaded into the memory.
 Static inner classes: They are declared as static and can be accessed without creating an object of the outer class.
 Static import statements: They allow importing the static members of a class without specifying the class name.
+
+editor: yea java is cool
