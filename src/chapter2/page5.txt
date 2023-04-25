@@ -1,6 +1,8 @@
  Encapsulation in Java is achieved by declaring the variables of a class as private and providing public getter and setter
   methods to access and modify the values of those variables. By making the variables private,
   they are not directly accessible from outside the class, and the public methods provide controlled access to them.
+  
+  editor: add more about this story
 
 
 
